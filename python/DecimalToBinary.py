@@ -10,9 +10,3 @@ a.reverse()
 
 print(a)
 print(*a, sep = ' ')
-for n in range(0,len(a)):
-    print(a[n])
-
-
-
-# Function to print binary number
